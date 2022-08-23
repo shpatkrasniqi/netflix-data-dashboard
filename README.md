@@ -1,3 +1,7 @@
+### Netflix Data Dashboard
+
+App contains visualized data from the Netflix movies and series dataset. the user has the ability to zoom and pan around the chart, as most of the charts contain a lot of data.
+
 ## Requirements
 
 * Python 3
